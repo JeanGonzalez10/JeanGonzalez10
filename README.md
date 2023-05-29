@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jean Carlos Gonzalez</h1>
 <h3 align="center">I´m a Software Development Student & FrontEnd Junior, passionate about problem solving and teamwork to create quality software products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangonzalez10&label=Profile%20views&color=0e75b6&style=flat" alt="jeangonzalez10" /> </p>
-
 - 🌱 I’m currently learning **Angular and TypeScript**
 
 - 📫 How to reach me **jeancarlosgonzalez171@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangonzalez10&label=Profile%20views&color=0e75b6&style=flat" alt="jeangonzalez10" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

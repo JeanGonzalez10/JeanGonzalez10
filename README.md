@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jean Carlos Gonzalez</h1>
-<h3 align="center">I´m a Software Development Student & FrontEnd Junior, passionate about problem solving and teamwork to create quality software products.</h3>
+<h3 align="center">I´m a Software Development Student & Frontend Developer, passionate about problem solving and teamwork to create quality software products.</h3>
+<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario banner">
 
-- 🌱 I’m currently learning **Angular and TypeScript**
-
-- 📫 How to reach me **jeancarlosgonzalez171@gmail.com**
+## About me
+- 👨‍🔧 I´m 21 years old and I´m From Medellín, Colombia.
+- 🖥️ I´m a frontend developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangonzalez10&label=Profile%20views&color=0e75b6&style=flat" alt="jeangonzalez10" /> </p>
 

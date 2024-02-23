@@ -4,7 +4,7 @@
 
 ## About me
 - 👨‍🔧 I´m 21 years old and I´m From Medellín, Colombia.
-- 🖥️ I´m a frontend developer.
+- 🖥️ I´m a Angular developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangonzalez10&label=Profile%20views&color=0e75b6&style=flat" alt="jeangonzalez10" /> </p>
 

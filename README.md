@@ -10,7 +10,7 @@
 
 ## About me
 
-- 👨‍🔧 <em> I´m 21 years old and I´m From Medellín, Colombia. </em>
+- 👨‍🔧 <em> I´m 23 years old and I´m From Medellín, Colombia. </em>
 - 🖥️ <em> I´m a Angular developer. </em>
 - 🎮 <em> I like video games </em>
 
